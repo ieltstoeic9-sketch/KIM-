@@ -1,0 +1,32 @@
+ANH NGỮ MS. KIM - BẢN WEBSITE CUỐI CÙNG
+
+CẤU TRÚC:
+index.html
+images/
+ket1-listening/
+    index.html
+    test1/
+        index.html
+        audio/
+        images/
+
+ĐƯỜNG ĐI TRÊN WEB:
+Trang chủ
+→ KET 1 - LISTENING
+→ Listening Test 1
+→ Submit
+→ Score + Correct rate (%) + Correct answer + Script + Evidence + Explanation + Distractors
+
+CÁCH UPLOAD LÊN GITHUB:
+1. Nếu muốn làm sạch hoàn toàn, xóa các file cũ trong repository.
+2. Giải nén file ZIP này.
+3. Mở thư mục Anh_ngu_Ms_Kim_FINAL_SITE.
+4. Upload TOÀN BỘ nội dung bên trong thư mục này vào ROOT của repository.
+5. Commit changes.
+6. Trong Settings → Pages, dùng:
+   Branch: main
+   Folder: /(root)
+7. Chờ GitHub Pages deploy lại.
+
+KHÔNG upload nguyên thư mục ngoài cùng.
+Chỉ upload các mục bên trong: index.html, images/, ket1-listening/, UPLOAD_GUIDE.txt
